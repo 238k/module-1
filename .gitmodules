@@ -1,0 +1,4 @@
+[submodule "module-2"]
+	path = module-2
+	url = https://github.com/238k/module-2.git
+	shallow = true
